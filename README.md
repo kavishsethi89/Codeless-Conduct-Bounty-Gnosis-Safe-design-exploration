@@ -9,6 +9,7 @@ Design Submission includes three user friendly design pages:-
 2. Collective Ownership of NFTs - Collectables Page
 3. Emerging Applications Page
 
+
 1. Sign-in with Gnosis - Main Page
 It is always a best experience visually for a user to to locate the window easily without too many tabs. 
 A simplistic window will open on the first step:
